@@ -47,12 +47,10 @@ Use a sensor placed on one ankle and a  magnet on the other one and estimate the
 
 **Results:** Please refer to the plots in [`Plots-2`](https://github.com/ReDevVerse/StrideLength/tree/main/Visual%20Analysis/group%20plots/Test-2)
 
-## Observations
-
-     <ol>
-    <li> In test-1, the amplitude direction was reversed after certain distance based on the no of magnets used.
-	<li> In test-1, the magnetometer was unable to capture the magnetic strength or magnetic flux of 6-magnets.
-	<li> In test-2, variability of the magnetic intensity between long and short strides has almost the same magnitude.
-	<li> In test-2, a high peak in the middle was occuring when I reached one end of track and was walking back.
-	<li> In test-2, it seems like step counts can be known easily, but step length could be a challenging task.
-	<li> In test-2, while using 6 magnets, the second half of the plot does'nt show any peaks because the magnets fell from the band.
+## Observations:
+1. In test-1, the amplitude direction was reversed after certain distance based on the no of magnets used.
+2. In test-1, the magnetometer was unable to capture the magnetic strength or magnetic flux of 6-magnets.
+3. In test-2, variability of the magnetic intensity between long and short strides has almost the same magnitude.
+4. In test-2, a high peak in the middle was occuring when I reached one end of track and was walking back.
+5. In test-2, it seems like step counts can be known easily, but step length could be a challenging task.
+6. In test-2, while using 6 magnets, the second half of the plot does'nt show any peaks because the magnets fell from the band
